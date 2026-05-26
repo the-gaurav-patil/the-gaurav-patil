@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Hi+I'm+Gaurav+👋;Data+Science+Learner;SQL+%7C+Python+%7C+Power+BI;Future+Data+Analyst+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Hi+I'm+Gaurav+👋;Data+Scientist;SQL+%7C+Python+%7C+Power+BI;Future+Data+Analyst+🚀" />
 </p>
 
 <!-- 👀 Visitor Counter -->

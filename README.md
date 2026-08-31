@@ -65,7 +65,7 @@ I’m passionate about Data Science and continuously learning new technologies.
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gauravpatil9075)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravpatil9075/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([YOUR_LINK](https://www.instagram.com/mr_gaurav_p_01?igsh=c2hta2VpMHgzbXps))
 
 ---

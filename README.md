@@ -57,12 +57,11 @@ Advanced Excel dashboard for analyzing business performance, profitability, oper
 
 ---
 
-### 🏦 Banking Analytics System
-SQL-based analytics project for analyzing customers, accounts, transactions, and loans.
+### 🚖 Ola Ride Data Analysis Dashboard (Power BI)
+This project analyzes Ola ride data using Power BI to uncover key insights related to bookings, revenue, cancellations, and customer behavior
+**Tech:** Power BI | DAX | Power Query | Data Visualization | SQL
 
-**Tech:** MySQL | Joins | Subqueries | Window Functions
-
-🔗 Check my repositories for more projects!
+🔗 [View Project](https://github.com/the-gaurav-patil/Ola-PowerBI-Analysis)
 
 ---
 

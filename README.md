@@ -59,6 +59,7 @@ Advanced Excel dashboard for analyzing business performance, profitability, oper
 
 ### 🚖 Ola Ride Data Analysis Dashboard (Power BI)
 This project analyzes Ola ride data using Power BI to uncover key insights related to bookings, revenue, cancellations, and customer behavior
+
 **Tech:** Power BI | DAX | Power Query | Data Visualization | SQL
 
 🔗 [View Project](https://github.com/the-gaurav-patil/Ola-PowerBI-Analysis)
